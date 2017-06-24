@@ -1,4 +1,4 @@
-#Shutterfly code challenge
+# Shutterfly code challenge
 
 from Shuxian Wu
 
